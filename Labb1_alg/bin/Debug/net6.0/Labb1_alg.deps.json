@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Labb1_alg/1.0.0": {
+        "runtime": {
+          "Labb1_alg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labb1_alg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
